@@ -1,0 +1,4 @@
+id,name,email,joined
+1,Ada,ada@example.com,2026-01-05
+,Missing ID,noid@example.com,2026-02-02
+3,Alan,alan@example.com,not-a-date
